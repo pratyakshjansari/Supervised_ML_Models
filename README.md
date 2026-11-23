@@ -132,4 +132,4 @@ The objective is to understand supervised machine learning techniques, implement
 
 ## Author
 
-BCA Student | Machine Learning Enthusiast
+Machine Learning Enthusiast
