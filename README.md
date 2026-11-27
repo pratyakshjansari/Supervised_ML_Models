@@ -105,7 +105,7 @@ Supervised_ML_Models/
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/pratyakshjansari/Supervised_ML_Models
 ```
 
 Navigate into the project:
